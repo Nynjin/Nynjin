@@ -2,7 +2,7 @@
 
 **IT Engineer in Apprenticeship**
 
-Based in Villeurbanne, France, my interests span game development, VR, and 3D.
+I take pride in building things myself, interacting with them, and iterating until they feel right. Getting into game development and VR got me to try out PCB design, music production and illustration. That same mindset has helped me adapt quickly to new environments and pick things up on the fly, whether that's a new language, technology or an entirely new field like cartography.
 </br>
 Currently, I'm at **Ciril Group**, contributing to the open-source [iTowns Project](https://www.itowns-project.org/) to enhance 3D geospatial visualization.
 
